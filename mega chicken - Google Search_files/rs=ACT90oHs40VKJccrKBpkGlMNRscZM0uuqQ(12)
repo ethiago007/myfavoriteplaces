@@ -1,0 +1,11 @@
+try{
+uv_d("oph");
+
+var uv_6L=function(a){uv_R.call(this);this.H=uv_T();this.N=uv_T();this.O=uv_T();this.T=a.$(this)};uv_t(uv_6L,uv_R);uv_6L.prototype.bind=function(a,b,c,d){this.H.bindTo(a,d);this.N.bindTo(b,d);this.O.bindTo(c,d)};uv_6L.prototype.$=function(a){return a.O?!0:!1};
+uv_6L.prototype.V=function(a){var b=a.O;if(b){a=a.N;var c=this.N.get();if(c){var d=this.H.get();if(d){var e=this.O.get();if(e){a.lg("entity_click");var f=new uv_jv;f.Da(c);d=uv_wga(d,b);b=b.H;c=uv_j(c,8)?uv_nv(c):null;uv_CB(b,c)?uv_n(f,8):uv_zB(f).Da(b);e.moveTo(d,f,null,a)}}}}};uv_6L.prototype.Na=function(a){this.H.unbind(a);this.N.unbind(a);this.O.unbind(a);this.T.dispose(a)};
+uv_V("OPH",function(a,b,c,d){b=new uv_6L(c,d,b);a(b)});
+
+uv_e();
+
+}catch(e){_DumpException(e)}
+// Google Inc.
