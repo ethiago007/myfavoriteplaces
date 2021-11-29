@@ -4,14 +4,12 @@ p {
     font-style: italic;
 }
 ol {
-    color: dimgray;
-    font-size: 50px;
-    line-height: 40px;
+    color: dimgray;    
 }
 li {
-    text-align: center;
+    text-align: start;
     color: snow;
-    font-weight: 500;
+    font-weight: normal;
 }
 a {
     color: royalblue;
@@ -19,7 +17,5 @@ a {
 }
 h1 {
     color: saddlebrown;
-    font-size: 100px;
     font-family: Times;
-    
 }
