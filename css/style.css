@@ -1,4 +1,25 @@
 p {
     color:deepskyblue;
     font-family: Georgia;
+    font-style: italic;
+}
+ol {
+    color: dimgray;
+    font-size: 50px;
+    line-height: 40px;
+}
+li {
+    text-align: center;
+    color: snow;
+    font-weight: 500;
+}
+a {
+    color: royalblue;
+    text-align: end;
+}
+h1 {
+    color: saddlebrown;
+    font-size: 100px;
+    font-family: Times;
+    
 }
